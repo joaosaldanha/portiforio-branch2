@@ -27,5 +27,5 @@ Um em cima e o outro em baixo, respectivamente com o sub-tópico o anuncia.
 Eles estão presente na interface para promover a visualização da "marca" criadora do site, além de divulgação de redes sociais dos desenvolvedores.
 
 ## Link para acessar o GITHUB PAGE
-Link: https://robertofernandesz.github.io/portiforio/  
+Link: https://joaosaldanha.github.io/portiforio-branch2/.
 # portiforio-branch2
